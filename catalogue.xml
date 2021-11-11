@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!-- <!DOCTYPE catalogue SYSTEM "catalogue.dtd"> -->
+    
+<catalogue année = "2020"     
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="catalogue.xsd">
+    <article ref="A001" catégorie="Fille">
+        <Désignation>Robe en jeans doublée </Désignation>
+        <taillesDisp>
+            <taille>Moins 2 ans</taille>
+            <taille>4 ans</taille>
+        </taillesDisp>
+        <photo source="A001.jpg" />
+        <prixTTC>120.00</prixTTC>
+        <description >Une petite robe en jeans qui se démarque grâce à son print Marie des 
+            Aristochats et sa doublure micropolaire toute chaude !</description >
+        <détail> A001.pdf </détail>
+    </article>
+    <article ref="A002" catégorie="Garçon">
+        <Désignation>Chemise manches longues à carreaux</Désignation>
+        <taillesDisp>
+            <taille>6 ans</taille>
+        </taillesDisp>
+        <photo source="A002.jpg" />
+        <prixTTC>150.00</prixTTC>
+        <description >Chemise en popeline à carreaux. Col chemise Ouverture boutonnée sur 
+            toute la longueur devant</description>
+        <détail> A002.pdf </détail>
+    </article>
+    <article ref="A003" catégorie="Fille">
+        <Désignation>Jupe volantée avec ceinture </Désignation>
+        <taillesDisp>
+            <taille>Moins 2 ans</taille>
+            <taille>4 ans</taille>
+            <taille>6 ans</taille>
+        </taillesDisp>
+        <photo source="A003.jpg" />
+        <prixTTC>90.00</prixTTC>
+        <description >Jupe 100% coton effet volanté avec voile noir. Doublure imprimé noeuds 
+            fantaisie.</description >
+        <détail> A003.pdf </détail>
+    </article>
+    <article ref="A004" catégorie="Fille">
+        <Désignation> Salopette de ski imperméable doublée micropolaire</Désignation>
+        <taillesDisp>
+            <taille>4 ans</taille>
+            <taille>6 ans</taille>
+        </taillesDisp>
+        <photo source="A004.jpg" />
+        <prixTTC>200.00</prixTTC>
+        <description > Salopette de ski en polyester ouatiné imperméable. Doublure 
+            micropolaire. Bretelles réglables, avec pressions</description >
+        <détail> A004.pdf </détail>
+    </article>
+</catalogue>
